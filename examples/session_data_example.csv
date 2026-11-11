@@ -1,0 +1,14 @@
+﻿Event,Kit Context,Player,Details,Value
+--- NEW MATCH STARTED ---,NETHERITE POT,,,
+DAMAGE,NETHERITE POT,Steve,Sword hit: 8.5 damage (raw 11.2),8.50
+DAMAGE,NETHERITE POT,Steve,Critical hit: 12.0 damage (raw 15.8),12.00
+TOTEM POP,NETHERITE POT,Steve,Opponent used Totem of Undying,1.00
+GOLDEN APPLE,NETHERITE POT,Steve,Opponent consumed Golden Apple,1.00
+PEARL,NETHERITE POT,Steve,Opponent threw Ender Pearl,1.00
+XP BOTTLE,NETHERITE POT,Steve,Opponent threw XP Bottle,1.00
+DAMAGE TAKEN,NETHERITE POT,Steve,Took 6.0 damage,6.00
+HACK ALERT,NETHERITE POT,Steve,Autoclicker: 19 CPS | little data 1 matches | Estimate not proof,82.40
+HACK SUMMARY,NETHERITE POT,Steve,"Peak 82.4%, main check Autoclicker, 14 flags, little data, 412 samples",82.40
+--- NEW MATCH STARTED ---,DIAMOND CRYSTAL,,,
+DAMAGE,DIAMOND CRYSTAL,Alex,End Crystal: 15.2 damage (raw 22.0),15.20
+TOTEM POP,DIAMOND CRYSTAL,Alex,Opponent used Totem of Undying,1.00

@@ -1,0 +1,13 @@
+{
+  "required": false,
+  "package": "com.pvpcalc.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPlayNetworkHandlerMixin",
+    "ClientPlayNetworkHandlerTimeMixin",
+    "PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "pvpcalc",
+  "version": "${version}",
+  "name": "PvPCalc",
+  "description": "Client-side PvP damage calculator, combat tracker, match summaries and cheat-estimate tool with CSV/Excel output. Made by O_Kissa.",
+  "authors": ["O_Kissa"],
+  "license": "MIT",
+  "icon": "assets/pvpcalc/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.pvpcalc.PvPCalcClient"]
+  },
+  "mixins": ["pvpcalc.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
